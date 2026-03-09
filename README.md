@@ -35,18 +35,6 @@ Shipping details
 
 Sales and profit metrics
 
-Key columns include:
-
-Feature	Description
-Order Date	Date when the order was placed
-Region	Geographic sales region
-Category	Product category
-Sub-Category	Detailed product classification
-Sales	Total sales value
-Quantity	Number of items sold
-Profit	Profit generated from the sale
-🛠 Tech Stack
-
 Programming Language
 
 Python
