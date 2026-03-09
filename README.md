@@ -128,7 +128,5 @@ Business Insight Generation
 
 Python for Data Analysis
 
-👨‍💻 Author
-
 Kareem
 Data Science & Machine Learning Student
