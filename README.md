@@ -106,27 +106,6 @@ Regional performance varies, indicating different market opportunities.
 
 Some products have high sales but low profitability, suggesting pricing or cost issues.
 
-🚀 How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/superstore-sales-analysis.git
-
-Navigate to the project folder
-
-cd superstore-sales-analysis
-
-Install required libraries
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-Run the notebook
-
-jupyter notebook
-📷 Example Visualizations
-
-The project includes multiple charts that highlight sales trends and business insights.
-
 👨‍💻 Author
 
 Kareem
