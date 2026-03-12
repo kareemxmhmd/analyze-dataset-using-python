@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Superstore Dataset Analysis
 
 A Python data analysis project that explores the Superstore sales dataset using pandas, matplotlib, and seaborn.
